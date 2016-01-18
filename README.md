@@ -1,5 +1,4 @@
-# linux-
-linux的基础知识
+# linux命令的基础知识
 
 
 
